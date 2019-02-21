@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Snackbar.make(view, "Rahul Varshney MCA2nd yr.",
                         Snackbar.LENGTH_LONG)
-                        .setAction("Ok", null).show();
+                        .setAction("Ok1", null).show();
             }
         });
     }
